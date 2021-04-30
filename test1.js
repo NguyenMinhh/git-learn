@@ -8,5 +8,6 @@ export const masterCommit = {
     key: "test",
     key2: "test2",
     key3: "test3",
-    key4: "test4"
+    key4: "test4",
+    key5: "test5"
 }
