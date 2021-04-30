@@ -6,5 +6,6 @@ export const test = {
 
 export const masterCommit = {
     key: "test",
-    key2: "test2"
+    key2: "test2",
+    key3: "test3"
 }
